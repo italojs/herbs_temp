@@ -1,0 +1,17 @@
+{
+  "name": "xp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gotu": "^1.0.22",
+    "herbs2knex": "^1.0.10",
+    "knex": "^0.95.6",
+    "pg": "^8.6.0"
+  }
+}
